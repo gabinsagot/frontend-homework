@@ -3,5 +3,5 @@ Ce dépôt contient un projet réalisé dans le cadre du cours de frontend d'ing
 
 **Pixels War**
 
-- Entrer le lien *http://localhost:8080/pixels-war.html* dans un navigateur 
+- Ouvrir le fichier dans VSCode, puis afficher la Preview (ou aller directement dans un navigateur)
 - Envahir le monde avec ses pixels.
